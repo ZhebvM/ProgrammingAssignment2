@@ -42,4 +42,8 @@ cacheSolve(maa)
 
 cacheSolve(maa)
 
+## Sourses used:
 
+# To solve this assignment, I have referred to posts in the discussion forums for the course on coursera 
+# and to this link on stack.overflow
+# http://stackoverflow.com/questions/23327741/r-rstudio-resetting-debug-function-environment 
